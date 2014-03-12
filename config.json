@@ -1,0 +1,9 @@
+{
+    "SessionSecret": "operiutowriutoweriytoeryuytwuietyoweriutyweriouy",
+    "WebHost": "127.0.0.1",
+    "WebPort": 7000,
+    "DbHost": "127.0.0.1",
+    "DbPort": 0,
+    "TemplatePreCompile": true,
+    "Debug": true
+}
